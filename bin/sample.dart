@@ -34,7 +34,7 @@ void div(){
  a=15;
  b=2;
  c=15~/2;
- print('a~/b=$c');m.
+ print('a~/b=$c');
 
 }
 
